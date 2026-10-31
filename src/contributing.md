@@ -80,7 +80,7 @@ After modifying an activity, a new release will be needed.  Some activities have
 
 * [ ] if there is a `po/*.pot` file, regenerate using `python setup.py genpot`, review the changes, and commit,
 
-* [ ] If the activity is on [weblate](weblate.sugarlabs.org), check to make sure that the changes on weblate are also on the repo
+* [ ] If the activity is on [weblate](https://weblate.sugarlabs.org), check to make sure that the changes on weblate are also on the repo
 as weblate automatically pushes changes, you can ask for the admin in our matrix channel if you notice that weblate changes aren't
 reflected on the repo.
 

@@ -427,9 +427,9 @@ Make a local clone of your GitHub repository, use `git commit --amend` or the ot
 Most likely you have cloned someone else's repository, and you should
 instead fork their repository, clone your own repository, make your
 changes, then push.  See [Getting error 403 while submitting
-PR](http://lists.sugarlabs.org/archive/sugar-devel/2017-March/053926.html)
+PR](https://lists.sugarlabs.org/archive/sugar-devel/2017-March/053926.html)
 and [D. Joe's
-reply](http://lists.sugarlabs.org/archive/sugar-devel/2017-March/053929.html).
+reply](https://lists.sugarlabs.org/archive/sugar-devel/2017-March/053929.html).
 
 ### My fork is out of date. How do I sync it with upstream?
 

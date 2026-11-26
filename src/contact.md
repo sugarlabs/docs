@@ -2,7 +2,7 @@ Contact
 =======
 
 Join us at Sugar-devel mailing list
-<http://lists.sugarlabs.org/listinfo/sugar-devel>.
+<https://lists.sugarlabs.org/listinfo/sugar-devel>.
 
 We have a [Matrix channel][Matrix] where real time discussions mostly happen. 
 

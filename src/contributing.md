@@ -32,7 +32,7 @@ For new activities, see [Write your own Sugar desktop
 activity](desktop-activity.md), or [Write your own Sugar web
 activity](web-activity.md), then make a new repository in your
 GitHub account, put the source code in it, then ask the [systems@
-list](https://lists.sugarlabs.org/listinfo/systems) to move it to the
+list](https://lists.sugarlabs.org/mailman3/lists/systems.lists.sugarlabs.org/) to move it to the
 GitHub `sugarlabs` organization.
 
 ### Checklist - everyone
@@ -427,9 +427,7 @@ Make a local clone of your GitHub repository, use `git commit --amend` or the ot
 Most likely you have cloned someone else's repository, and you should
 instead fork their repository, clone your own repository, make your
 changes, then push.  See [Getting error 403 while submitting
-PR](https://lists.sugarlabs.org/archive/sugar-devel/2017-March/053926.html)
-and [D. Joe's
-reply](https://lists.sugarlabs.org/archive/sugar-devel/2017-March/053929.html).
+PR](https://lists.sugarlabs.org/archives/list/sugar-devel@lists.sugarlabs.org/thread/2FFQG75EL45OOIKEZEVFFHHR2R3GVAKR/).
 
 ### My fork is out of date. How do I sync it with upstream?
 

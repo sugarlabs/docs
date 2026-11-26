@@ -158,6 +158,6 @@ ways to get in touch with real people are:
 
 [1]: desktop-activity.md
 [2]: https://bugs.sugarlabs.org
-[3]: https://lists.sugarlabs.org/listinfo/sugar-devel
+[3]: https://lists.sugarlabs.org/mailman3/lists/sugar-devel.lists.sugarlabs.org/
 [4]: https://wiki.sugarlabs.org/go/Mentors
 [5]: web-activity.md

@@ -143,7 +143,7 @@ Unlock these achievements.  Work from top to bottom.
 
 12. Join Sugar on Fedora live system mailing list,
 
-    https://lists.sugarlabs.org/listinfo/soas
+    https://lists.sugarlabs.org/mailman3/lists/soas.lists.sugarlabs.org/
 
     * download, test, report bugs, fix bugs, package,
 

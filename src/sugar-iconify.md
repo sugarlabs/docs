@@ -16,7 +16,7 @@ You can find the script in the [sugariconify repository](https://github.com/suga
 
 For creating an SVG suitable for Sugar,
 see the tutorial on [Making Sugar
-Icons](http://wiki.sugarlabs.org/go/Development_Team/Almanac/Making_Icons).
+Icons](https://wiki.sugarlabs.org/go/Development_Team/Almanac/Making_Icons).
 
 In some cases, you may desire to update a single icon, or a subset of
 the icons defined within a given SVG. To do so, pass a pattern to the

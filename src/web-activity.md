@@ -277,7 +277,7 @@ Before your first release, you should:
 
 After that, if the activity works with Sugar 0.112 or earlier, on
 *packaged-sugar* you may make a bundle and upload it to the Sugar
-Activity Library <http://activities.sugarlabs.org/>.
+Activity Library <https://activities.sugarlabs.org/>.
 
     python setup.py dist_xo
 

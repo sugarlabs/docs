@@ -1,11 +1,11 @@
 # How Can I Help?
 ## Table Of Contents
-1.  [Prepare](#-prepare)
-2.  [Coding/Documentation/Quality Assurance](#-coding-documentation-and-quality-assurance)
-3.  [Design](#-design)
-4.  [Marketing/Outreach](#-marketingoutreach)
-5.  [Important Links](#-important-sugar-labs-links)
-5.  [I'm Stuck!](#IM-STUCK)
+1.  [Prepare](#prepare)
+2.  [Coding, Documentation and Quality Assurance](#coding-documentation-and-quality-assurance)
+3.  [Design](#design)
+4.  [Marketing/Outreach](#marketingoutreach)
+5.  [Important Sugar Labs Links](#important-sugar-labs-links)
+6.  [I'm Stuck!](#im-stuck)
 
 ## <a name="PREPARE"></a> Prepare
 Before contributing to Sugar Labs, you should use Music Blocks, Sugarizer or Sugar Desktop.
